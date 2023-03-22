@@ -51,8 +51,9 @@ input[type='checkbox'] {
 
 .titleImage{
     margin-top: 210px;
-    font-size: 30px;
-    margin-bottom: 74px;
+    font-size: 38px;
+    margin-bottom: 64px;
+    font-weight: bold;
 }
 
 .image1{
